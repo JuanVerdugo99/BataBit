@@ -1,0 +1,38 @@
+.main-tables-container{
+    display: flex;
+    width: 767px;
+    margin: 0 auto;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 750px;
+    margin: 0 auto;
+}
+
+.product-detail--card{
+    width: 42%;
+    margin-bottom: 40px;
+}
+
+.plans-container--slider{
+    display: flex;
+    height: 326px;
+    width: 710px;
+    margin: 0 auto;
+    overflow-x: inherit;
+}
+
+.plan-container--card{
+    min-width: 200px;
+}
+
+footer{
+    justify-content: center;
+}
+
+footer .left, .right{
+    min-width: 340px;
+    max-width: 500px;
+}
