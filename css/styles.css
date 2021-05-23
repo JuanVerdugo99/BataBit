@@ -99,6 +99,19 @@ header img {
     margin-bottom: 10px;
 }
 
+
+/*Agregue las siguientes clases*/
+
+.centrar-listas {
+    text-align: center;
+}
+
+.centrar-listas ul,
+.centrar-listas ol {
+    text-align: left;
+    display: inline-block;
+}
+
 .header--button span {
     display: inline-block;
     width: 13px;
